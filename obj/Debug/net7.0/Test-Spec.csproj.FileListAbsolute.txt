@@ -1,0 +1,15 @@
+C:\Users\79523\Desktop\C#\Test-Spec\bin\Debug\net7.0\Test-Spec.exe
+C:\Users\79523\Desktop\C#\Test-Spec\bin\Debug\net7.0\Test-Spec.deps.json
+C:\Users\79523\Desktop\C#\Test-Spec\bin\Debug\net7.0\Test-Spec.runtimeconfig.json
+C:\Users\79523\Desktop\C#\Test-Spec\bin\Debug\net7.0\Test-Spec.dll
+C:\Users\79523\Desktop\C#\Test-Spec\bin\Debug\net7.0\Test-Spec.pdb
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.csproj.AssemblyReference.cache
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.AssemblyInfoInputs.cache
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.AssemblyInfo.cs
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.csproj.CoreCompileInputs.cache
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.dll
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\refint\Test-Spec.dll
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.pdb
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\Test-Spec.genruntimeconfig.cache
+C:\Users\79523\Desktop\C#\Test-Spec\obj\Debug\net7.0\ref\Test-Spec.dll
